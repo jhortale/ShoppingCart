@@ -32,7 +32,10 @@
       "react-hooks/rules-of-hooks": "error",
       "react-hooks/exhaustive-deps": "warn",
       "no-plusplus": "off",
+      "no-param-reassign": "off",
+      "react/prop-types": "off",
       "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
+      "@typescript-eslint/explicit-module-boundary-types": "off",
       "import/prefer-default-export": "off",
       "prettier/prettier": "error",
       "import/extensions": [
